@@ -1,4 +1,5 @@
 import streamlit as st
+import fpdf
 from fpdf import FPDF
 import tempfile
 
